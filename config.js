@@ -1,11 +1,8 @@
 const CONFIG = {
     titleWeb: "Chúc mừng sinh nhật",
     introTitle: 'Minh Ngọc',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    introDesc: `Chúc cậu sinh nhật vui vẻ,mong mọi điều tốt nhất sẽ đến bên cậu`,
+    btnIntro: 'Ấn vào nhé',
     title: 'Tớ muốn nói với cậu rằng',
     desc: 'Tớ thích cậu, cậu làm người yêu tớ nhé ',
     btnYes: 'Thích lắm <33',
